@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shane Storks - PhD Candidate @ University of Michigan CSE"
+title: "Shane Storks - PhD Candidate @ University of Michigan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
