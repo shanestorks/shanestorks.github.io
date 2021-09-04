@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shane Storks"
 title_separator          : "-"
 name                     : &name "Shane Storks"
-description              : &description "personal description"
+description              : &description "Shane Storks' personal website."
 url                      : https://shanestorks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shanestorks/shanestorks.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shane Storks"
   avatar           : "profile.png"
-  bio              : "PhD candidate studying robust natural language and multimodal inference."
-  employer         : "University of Michigan CSE"
+  bio              : "PhD candidate @ University of Michigan CSE studying robust natural language and multimodal inference."
+  employer         : 
   location         : "Ann Arbor, MI, USA"
   pubmed           : 
   email            : "http://scr.im/sstorks"
@@ -91,7 +91,6 @@ author:
   linkedin         : "https://www.linkedin.com/in/shane-storks-0260b798/"
   googlescholar    : "https://scholar.google.com/citations?user=_oIgFVcAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Shane-Storks"
-  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Storks%2C+S"
   uri              :
   bitbucket        :
   codepen          :
@@ -256,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
