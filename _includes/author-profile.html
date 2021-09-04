@@ -23,6 +23,7 @@
     <button class="btn btn--inverse">Follow</button>
     <!-- <ul class="author__urls social-icons">
       <li> -->
+    <div class="author_urls">
       {% if author.location %}
         <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}
       {% endif %}
@@ -59,6 +60,7 @@
       {% if author.orcid %}
         <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
+    </div>
       <!-- </li>
     </ul> -->
   </div>
