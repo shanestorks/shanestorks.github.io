@@ -191,66 +191,75 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  .fa-envelope {
+    color: #333;
+  }
+
+  .fa-envelope:hover {
+    color: #F00;
+  }    
+
+  .ai-google-scholar,
+  .ai-google-scholar-square {
+    // color: $google-scholar-color;
+    color: #333
+  }
+
+  .ai-google-scholar:hover,
+  .ai-google-scholar-square:hover {
+    color: #FA0;
+  }  
+
+  .fa-researchgate,
+  .fa-researchgate-square {
+    // color: $researchgate-color;
+    color: #333;
+  }
+
+  .fa-researchgate:hover,
+  .fa-researchgate-square:hover {
+    color: #FF0;
+  }
+
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    // color: $github-color;
+    color: #333;
   }
 
   .fa-github:hover,
   .fa-github-alt:hover,
   .fa-github-square:hover {
-    color: #000;
+    color: #0F0;
   }
 
   .fa-linkedin,
   .fa-linkedin-square {
-    color: $linkedin-color;
+    // color: $linkedin-color;
+    color: #333;
   }
 
   .fa-linkedin:hover,
   .fa-linkedin-square:hover {
-    color: #000;
+    color: #00F;
   }  
   
   .fa-twitter,
   .fa-twitter-square {
-    color: $twitter-color;
+    // color: $twitter-color;
+    color: #333
   }
 
   .fa-twitter:hover,
   .fa-twitter-square:hover {
-    color: #000;
+    color: #F0F;
   }  
 
-  .fa-researchgate,
-  .fa-researchgate-square {
-    color: $researchgate-color;
-  }
-
-  .fa-researchgate:hover,
-  .fa-researchgate-square:hover {
-    color: #000;
-  }
 
 
-  .ai-google-scholar,
-  .ai-google-scholar-square {
-    color: $google-scholar-color;
-  }
 
-  .ai-google-scholar:hover,
-  .ai-google-scholar-square:hover {
-    color: #000;
-  }  
 
-  .fa-envelope {
-    color: #CC0085;
-  }
-
-  .fa-envelope:hover {
-    color: #000;
-  }  
 
 }
 
