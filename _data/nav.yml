@@ -1,0 +1,8 @@
+nav_list_title: Navigation List
+links:
+
+- title: Blog
+  url: blog.html
+
+- title: Vitae
+  url: /assets/pdf/vitae.pdf

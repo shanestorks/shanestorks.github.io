@@ -1,5 +1,48 @@
-Contributions are welcome! Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+# Contributing to Jekyll-Theme-Dumbarton
 
-Fork from master and go from there. This repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
+*This document was adapted from the open-source contribution guidelines for [Brian A. Danielak](https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62)*
 
-If you make a pull request and change code, please make sure there is a closed issue tagged with 'code change' that has some comment linking to either the single commit (if the change was just one commit) or a diff comparing before/after the change (see [issue 21](https://github.com/academicpages/academicpages.github.io/issues/21) for example). This is so that those who have forked this repo and modified it for their purposes can more easily patch bugs and new features.
+I love your input! I want to make contributing to this project as easy and transparent as possible, whether it's:
+
+- Reporting a bug
+- Discussing the current state of the code
+- Submitting a fix
+- Proposing new features
+- Becoming a maintainer
+
+## Develop with Github
+I use github to host code, to track issues and feature requests, as Ill as accept pull requests.
+
+## I Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
+Pull requests are the best way to propose changes to the codebase (I use [Github Flow](https://guides.github.com/introduction/flow/index.html)). I actively welcome your pull requests:
+
+1. Fork the repo and create your branch from `master`.
+2. If you've added code that should be tested, add tests.
+3. If you've changed APIs, update the documentation.
+4. Ensure the test suite passes.
+5. Make sure your code lints.
+6. Issue that pull request!
+
+## Any contributions you make will be under the MIT Software License
+In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
+
+## Report bugs using Github's [issues](https://github.com/tcbutler320/Jekyll-Theme-Dumbarton/issues)
+I use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
+
+## Write bug reports with detail, background, and sample code  
+
+**Great Bug Reports** tend to have:
+
+- A quick summary and/or background
+- Steps to reproduce
+  - Be specific!
+  - Give sample code if you can.
+- What you expected would happen
+- What actually happens
+- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
+
+People *love* thorough bug reports. I'm not even kidding.
+
+## License
+By contributing, you agree that your contributions will be licensed under its MIT License.
+

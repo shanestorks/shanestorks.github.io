@@ -1,0 +1,24 @@
+- School: University of Michigan
+  Degree: 
+  Program: EECS 595 Natural Language Processing
+  id: EECS-595-Natural-Language-Processing-1
+  data-id: data-umich1   
+  heading-id: head-umich1  # This can be any random string as long as each teaching set has a unique one. 
+  StartDate: August 2021
+  EndDate: December 2021
+  first: false
+  Icon: /assets/img/icons/umich.png      # Make this icon small, think 30px/30px
+  description: >
+    Graduate introductory course to NLP led by Joyce Chai. Topics include: syntax, semantics, discourse, deep learning for NLP, and their applications in information extraction, machine translation, and dialogue systems.
+
+- School: University of Michigan
+  Degree: 
+  Program: EECS 595 Natural Language Processing
+  id: EECS-595-Natural-Language-Processing-0
+  data-id: data-umich0
+  heading-id: head-umich0
+  StartDate: August 2020
+  EndDate: December 2020
+  first: true   # one must be true to properly display
+  description: >
+    Graduate introductory course to NLP led by Joyce Chai. Topics include: syntax, semantics, discourse, deep learning for NLP, and their applications in information extraction, machine translation, and dialogue systems.
